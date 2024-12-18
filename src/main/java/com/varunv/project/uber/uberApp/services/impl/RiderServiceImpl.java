@@ -4,7 +4,6 @@ import com.varunv.project.uber.uberApp.dto.DriverDto;
 import com.varunv.project.uber.uberApp.dto.RideDto;
 import com.varunv.project.uber.uberApp.dto.RideRequestDto;
 import com.varunv.project.uber.uberApp.dto.RiderDto;
-import com.codingshuttle.project.uber.uberApp.entities.*;
 import com.varunv.project.uber.uberApp.entities.*;
 import com.varunv.project.uber.uberApp.entities.enums.RideRequestStatus;
 import com.varunv.project.uber.uberApp.entities.enums.RideStatus;

@@ -1,6 +1,6 @@
 package com.varunv.project.uber.uberApp.controllers;
 
-import com.codingshuttle.project.uber.uberApp.dto.*;
+
 import com.varunv.project.uber.uberApp.dto.*;
 import com.varunv.project.uber.uberApp.services.DriverService;
 import lombok.RequiredArgsConstructor;

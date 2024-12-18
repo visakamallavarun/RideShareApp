@@ -11,7 +11,6 @@ import com.varunv.project.uber.uberApp.entities.enums.RideRequestStatus;
 import com.varunv.project.uber.uberApp.entities.enums.RideStatus;
 import com.varunv.project.uber.uberApp.exceptions.ResourceNotFoundException;
 import com.varunv.project.uber.uberApp.repositories.DriverRepository;
-import com.codingshuttle.project.uber.uberApp.services.*;
 import com.varunv.project.uber.uberApp.services.*;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
